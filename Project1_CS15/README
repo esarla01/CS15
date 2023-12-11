@@ -1,0 +1,101 @@
+/**********************************************************
+* Project 1: Metro Simulator
+* CS 15
+* README
+*
+*********************************************************/
+
+Compile/run:
+     - Compile using
+            make MetroSim
+     - run executable with
+            ./MetroSim stationsFile passFile [commands]
+
+
+Program Purpose:
+This program will monitor a train as it travels a simplified course of the 
+Green Line Extension, and will manage Passengers as they board and depart 
+at specified stops along the way.
+
+
+Acknowledgements: 
+
+https://www.cplusplus.com/reference/vector/vector/
+
+
+Files: 
+
+main.cpp:
+     STUDENT TO-DO: Main file should be short and handle simple driver
+     functions such as reading in files.
+
+MetroSim.cpp:
+     STUDENT TO-DO: Implementation of MetroSim class.  Main
+     functionality of running the Metro Simulation, should be able to
+     move trains and deal with passengers going on/off the train.
+
+MetroSim.h:
+     STUDENT TO-DO: Interface of MetroSim class.
+
+stations.txt:
+     an example file containing a list of stations.
+
+test_commands.txt:
+     sample list of commands that you could give to the simulator
+
+emptyfile.txt:
+     an empty list that has no commands in it
+
+addpassengers.txt
+     sample list of commands that only consist of p ARRIVAL DEPARTURE
+
+movetrain.txt
+     sample list of commands that only consist of m m
+
+the_metroSim:
+     reference implementation for students to see how 
+
+
+Note:  the program should handle all cases.
+
+Data Structures:
+The data structure I used for this project is vectors. Vectors are 
+basically dynamic arrays that resize themselves automatically when 
+an element is inserted or deleted.
+
+
+Testing:
+Phase 1:
+I tested the print function in PassengerQueue and each individual function in
+ PassengerQueue class. I used assert command to check the size of the queue 
+ each time I added or removed a passenger from them and also printed their 
+ contents and then manually checked if they matched the input looking at the 
+ terminal after running unit test.
+
+Phase 2:
+To test my program, I implemented four test files.
+First, I used  emptyfile.cpp to test the program when no commands is passed 
+from the file.(I expected the program to directly print the message "Thanks 
+for playing MetroSim. Have a nice day!") 
+Secondly, I used addpassengers.txt to test the program when lots of passengers 
+are constantly added to the train. 
+Thirdly, I used movetrain.cpp to test the program when the train constantly 
+moves to makes sure that train returns back to the first station after the 
+last one in the list. 
+Fourthly, I used test_commands.txt to test if the program could execute all 
+of the commands and make sure if the train could pick up and drop passengers 
+in the correct stations.
+
+After creating these files, I used "diff" to compare the results with the 
+given correct implementation of MetroSim. Since there was no difference bet-
+ween the files, I concluded that my program worked.
+
+Part that you found most difficult:
+
+I think the hardest part of this assignment was to come up with the command
+loop. I struggled to come up with the design for the command loop that could
+read from the file till the last line or keep running untill the user enters
+"m f". I was able to overcome this iossu with a very simple loop design as I
+put "input>>command".
+
+]
