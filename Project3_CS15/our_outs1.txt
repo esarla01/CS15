@@ -1,0 +1,434 @@
+gerp Not Found.
+gerp Not Found.
+GERP Not Found.
+GERP Not Found.
+gerp Not Found. Try with @insensitive or @i.
+gerp Not Found. Try with @insensitive or @i.
+gerp Not Found. Try with @insensitive or @i.
+GREP Not Found. Try with @insensitive or @i.
+GREP Not Found. Try with @insensitive or @i.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/1/2/10122/10122.txt:1505:    Sad prayers to a forgiving God....
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/1/2/10122/10122.txt:1505:    Sad prayers to a forgiving God....
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/1/10517/10517/10517.txt:302: the artizan, in the pastor's prayers, and the student's living thoughts.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/1/10517/10517/10517.txt:302: the artizan, in the pastor's prayers, and the student's living thoughts.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/1/10517/10517/10517.txt:714: prayers! And when they are gone, remember them at the home altar, and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/1/10517/10517/10517.txt:714: prayers! And when they are gone, remember them at the home altar, and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/6/1/10618/10618/10618.txt:282: out of his hand. Her anxious prayers were heard and answered, and peace
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/6/1/10618/10618/10618.txt:282: out of his hand. Her anxious prayers were heard and answered, and peace
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/1/10915/10915.txt:139: As soon as Lizzie has said her prayers in the morning, she goes out on
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/1/10915/10915.txt:139: As soon as Lizzie has said her prayers in the morning, she goes out on
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/8/10987/10987.txt:218: _therefore_ their prayers were heard--_For the eyes of the Lord
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/8/10987/10987.txt:218: _therefore_ their prayers were heard--_For the eyes of the Lord
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/8/10987/10987.txt:219: are over the righteous, and his ears are open unto their prayers: but
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/8/10987/10987.txt:219: are over the righteous, and his ears are open unto their prayers: but
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/8/10989/10989.txt:114: of prayers known to every child as the "Lord's Prayer", because it is
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/8/10989/10989.txt:114: of prayers known to every child as the "Lord's Prayer", because it is
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/9/10994/10994.txt:564: so. I will tell you, my dear brother. My mother's counsels and prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/9/10994/10994.txt:564: so. I will tell you, my dear brother. My mother's counsels and prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/0/7/11077/11077.txt:789: expressive as good piano players, but they scaled better -- as
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11148/11148.txt:372: she read; and though her prayers were very simple, and she scarcely
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11148/11148.txt:372: she read; and though her prayers were very simple, and she scarcely
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11149/11149.txt:1022: General Prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11149/11149.txt:1045:   In my prayers to Thee.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11149/11149.txt:1045:   In my prayers to Thee.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11149/11149.txt:10:        Prayers for Children
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11149/11149.txt:1149: Special Prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11149/11149.txt:246: Evening Prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11149/11149.txt:34: Prayers for Children
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11149/11149.txt:44: Morning Prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11149/11149.txt:457: Table Prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11149/11149.txt:629: Prayers in Sickness.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/3/7/11374/11374.txt:229:       Each one busy with his prayers,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/3/7/11374/11374.txt:229:       Each one busy with his prayers,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:121: The game of Squash Tennis has something to offer players of all ages.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:127: age of the ranking players today is around 43!
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:193: "purposeful power" and the aggressively angled shots of players with the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:194: burning desire to win, "the killer instinct" that spurs the great players
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:276: flight of the ball.  Most players can run all day sideways, but will
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:347: Most uninitiates, especially Squash Racquets players who are adroit at
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:351: placed straight "drops" that die in a corner, these potential players
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:370: players is to somehow get a prospect out on the court more than once.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:466: better Squash Tennis players and should be a shot you attempt only after
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:473: Squash Tennis players today, including many of the ranking competitors,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:607: Because of the desire by the expert Squash Tennis players for more and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:610: crucial years, therefore, the game was not adopted by new players and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:635: outstanding players who competed right after the War in a dwindling
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:650: ball, attract new players.  Still active in administration and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:794: points will win the game, except in the event both players tie (a) at
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:809: the players as to which player shall serve first.  Thereafter, when the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:883: the question of a let shall be left to the sportsmanship of the players.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:934: the players, such player must resume play within one hour or otherwise
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:939: control of both players, play shall be resumed immediately after such
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/8/1186/1186.txt:287: And thou the ecstasy of prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/8/1186/1186.txt:287: And thou the ecstasy of prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/8/1186/1186.txt:748: And your innocent prayers are told
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/8/1186/1186.txt:748: And your innocent prayers are told
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/8/1186/1186.txt:751: With their quiet prayers did meet
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/8/1186/1186.txt:751: With their quiet prayers did meet
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/8/1186/1186.txt:925:    Thy name among my prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/8/1186/1186.txt:925:    Thy name among my prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/9/4/11946/11946.txt:1389: What, sir, can you resist the sound of money and the prayers of a
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/9/4/11946/11946.txt:1389: What, sir, can you resist the sound of money and the prayers of a
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/9/9/11990/11990.txt:800:     and, with sundry players and men of that ilk, do frequent a house of
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/9/9/11998/11998.txt:142: proving that pure milk is God's law and that all the prayers in the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/9/9/11998/11998.txt:142: proving that pure milk is God's law and that all the prayers in the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/0/9/12093/12093.txt:392: Their psalms, their prayers, what stirring tales
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/0/9/12093/12093.txt:392: Their psalms, their prayers, what stirring tales
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/1220/1220.txt:660: year, I go for his sake and say the required prayers; and I say with
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/1220/1220.txt:660: year, I go for his sake and say the required prayers; and I say with
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/3/9/12394/12394.txt:1091: say their prayers to.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/3/9/12394/12394.txt:1091: say their prayers to.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/4/1/12417/12417.txt:256: washin'; an' I useter say my prayers mos' nights.  I wa'n't a bad
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/4/1/12417/12417.txt:256: washin'; an' I useter say my prayers mos' nights.  I wa'n't a bad
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/4/3/12430/12430.txt:151: thought, that to pray always meant to be always saying prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/4/3/12430/12430.txt:151: thought, that to pray always meant to be always saying prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/8/4/12842/12842.txt:122: the players. This is Ercles vein, a tyrant's vein; a lover is more
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/1/6/13167/13167.txt:505:   Without these noble players knowing,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/1/6/13167/13167.txt:934:     Away to Leg to say his prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/1/6/13167/13167.txt:934:     Away to Leg to say his prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/1/6/13167/13167.txt:986:   He hears the players calling,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/2/0/13203/13203.txt:912: as the first of players upon stringed instruments.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/2/1/13213/13213.txt:1043: prayers, and more songs. The little ragged ones seemed like new beings
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/2/1/13213/13213.txt:1043: prayers, and more songs. The little ragged ones seemed like new beings
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/2/1/13213/13213.txt:315: That night, after Tita had said her prayers, she said:
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/2/1/13213/13213.txt:315: That night, after Tita had said her prayers, she said:
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/0/13301/13301.txt:416: Heaven, and that they shall send their prayers to Him. But even if they
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/0/13301/13301.txt:416: Heaven, and that they shall send their prayers to Him. But even if they
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/0/13301/13301.txt:417: send their prayers in different directions, they will arrive at the same
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/0/13301/13301.txt:417: send their prayers in different directions, they will arrive at the same
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/0/13301/13301.txt:418: place. All prayers, whenever and wherever sent, go always the same way.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/0/13301/13301.txt:418: place. All prayers, whenever and wherever sent, go always the same way.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/4/13344/13344.txt:277: Tom to say his prayers, and my father used to teach me to read in
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/4/13344/13344.txt:277: Tom to say his prayers, and my father used to teach me to read in
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/4/3/13439/13439.txt:107: me in their Thanks and their Prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/4/3/13439/13439.txt:134: Hopes of your Parents, and even exceed the warmest Prayers of
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/4/6/13465/13465.txt:63: heard, the players didn't seem particularly strong in trumps, and the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/0/13800/13800.txt:1057: But Vain her Sighs; her Prayers, her Tears are Vain,  }
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/0/13800/13800.txt:883: He talks of prayers a little while before,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/0/13800/13800.txt:883: He talks of prayers a little while before,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:124: of prestigious players six years later. Although there were sporadic
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:130: the players from Drury Lane in the summer of 1743 banded together and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:156: Walpole, Goldsmith, fellow players, contemporary memoir writers, and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:190: absolutely London theaters, players, and audiences in 1743. Not much
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:209:      players and the patentees, is so full of honour, that had it been
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:222: Clive (and Macklin) among the principal players stayed with the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:226: other things, that Highmore share profits with his players rather than
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:227: pay fixed salaries. He then led the Drury Lane players in revolt in the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:232: vagrant act enforced, the players returned to Drury Lane unscathed. With
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:233: Highmore gone, a period of uneasy peace obtained. The players, however,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:245: players would be destitute or at least open to hardship without
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:272: London players because of the power of monopoly it invested in Fleetwood
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:276: to 1737, English players had some freedom (albeit limited) to rebel from
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:281: But it was a cartel between the managers that the players most feared,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:291: players. With the coming of Garrick from Goodman's Fields to Drury Lane
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:314: licensing act, subsequent cartel, and mistreatment of players were then
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:316: or against the players was salary, but it was only a cover hiding an
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:331: as not to be worth any body's Acceptance." The players use instead
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:332: salaries of the 1729 players "to place the salaries of the present
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:367: principal players attempted to obtain another license to set up their
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:376: several of the destitute seceded players who asked him to accede to
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:392: champions the cause of the non-principal players against such as Mrs.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:400: compassion of Mrs. Clive for the low-salaried players expressed in her
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:405: defected players returned to Drury Lane (except Macklin, whom Fleetwood
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:124: of prestigious players six years later. Although there were sporadic
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:130: the players from Drury Lane in the summer of 1743 banded together and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:156: Walpole, Goldsmith, fellow players, contemporary memoir writers, and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:190: absolutely London theaters, players, and audiences in 1743. Not much
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:209:      players and the patentees, is so full of honour, that had it been
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:222: Clive (and Macklin) among the principal players stayed with the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:226: other things, that Highmore share profits with his players rather than
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:227: pay fixed salaries. He then led the Drury Lane players in revolt in the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:232: vagrant act enforced, the players returned to Drury Lane unscathed. With
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:233: Highmore gone, a period of uneasy peace obtained. The players, however,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:245: players would be destitute or at least open to hardship without
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:272: London players because of the power of monopoly it invested in Fleetwood
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:276: to 1737, English players had some freedom (albeit limited) to rebel from
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:281: But it was a cartel between the managers that the players most feared,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:291: players. With the coming of Garrick from Goodman's Fields to Drury Lane
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:314: licensing act, subsequent cartel, and mistreatment of players were then
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:316: or against the players was salary, but it was only a cover hiding an
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:331: as not to be worth any body's Acceptance." The players use instead
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:332: salaries of the 1729 players "to place the salaries of the present
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:367: principal players attempted to obtain another license to set up their
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:376: several of the destitute seceded players who asked him to accede to
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:392: champions the cause of the non-principal players against such as Mrs.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:400: compassion of Mrs. Clive for the low-salaried players expressed in her
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:405: defected players returned to Drury Lane (except Macklin, whom Fleetwood
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/7/13972/13972.txt:727:          No prayers, nor tears, nor all the Virtuous arts.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/7/13972/13972.txt:727:          No prayers, nor tears, nor all the Virtuous arts.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/7/13972/13972.txt:813:            'Tis not their Sighs, Crying, nor Prayers,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/7/13978/13978.txt:274:   At prayers or meals, to work enjoyed
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/7/13978/13978.txt:274:   At prayers or meals, to work enjoyed
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/7/13978/13978.txt:453:     at morn or evening prayers at chapel church or meeting, never
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/7/13978/13978.txt:453:     at morn or evening prayers at chapel church or meeting, never
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/0/1/14017/14017.txt:714: the midweek prayer meeting, though their prayers and praises were
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/0/1/14017/14017.txt:714: the midweek prayer meeting, though their prayers and praises were
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/0/14100/14100.txt:124: If prayers may not avert, if 'tis thy fate
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/0/14100/14100.txt:124: If prayers may not avert, if 'tis thy fate
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/1/14217/14217.txt:921: near the links, the players shirk off as if I were a leper. They are
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/1427/1427.txt:728: scaffold. Say your prayers and make haste. A priest is coming to confess
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/1427/1427.txt:728: scaffold. Say your prayers and make haste. A priest is coming to confess
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/5/14250/14250.txt:1149: A large number of prominent players have promised to take shares, and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/2/14321/14321.txt:142:   And when 'e kneels that evening, I should like to 'ear 'is prayers!
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/2/14321/14321.txt:142:   And when 'e kneels that evening, I should like to 'ear 'is prayers!
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/4/14344/14344.txt:68: lookers-on. They never were of any use as players, but their hearts
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/4/14344/14344.txt:76: while the good players cease to care much about it? Perhaps _their_
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/8/14389/14389.txt:995: like _Christopher Sly_ when bored by the Duke's players, mutter to
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1456/1456.txt:529: holding a funeral service without a coffin, and putting up prayers to
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1456/1456.txt:529: holding a funeral service without a coffin, and putting up prayers to
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1456/1456.txt:533: counterbalances the loftiest virtues. The prayers put up by two feeble
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1456/1456.txt:533: counterbalances the loftiest virtues. The prayers put up by two feeble
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1456/1456.txt:552: The stranger's fervor was sincere. One emotion blended the prayers of
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1456/1456.txt:552: The stranger's fervor was sincere. One emotion blended the prayers of
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1456/1456.txt:678: petitions for him to their prayers; night and morning the pious souls
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1456/1456.txt:678: petitions for him to their prayers; night and morning the pious souls
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/4/14543/14543.txt:370: had slighted and shunned. Lady Grange felt that her prayers had been
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/4/14543/14543.txt:370: had slighted and shunned. Lady Grange felt that her prayers had been
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/7/14572/14572.txt:645: TWO CHRISTMAS PRAYERS
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/7/14572/14572.txt:75:   TWO CHRISTMAS PRAYERS
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/0/14606/14606.txt:1323: his prayers and tumbled into his narrow berth on the great ship. "I
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/0/14606/14606.txt:1323: his prayers and tumbled into his narrow berth on the great ship. "I
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/0/14606/14606.txt:427: "I guess so. Come, you'd better say your prayers and go to bed. We don't
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/0/14606/14606.txt:427: "I guess so. Come, you'd better say your prayers and go to bed. We don't
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/0/14606/14606.txt:459: "And you won't forget to say your prayers?"
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/0/14606/14606.txt:459: "And you won't forget to say your prayers?"
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/2/14628/14628.txt:303: When at length Fleur came to himself, neither prayers nor threats
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/2/14628/14628.txt:303: When at length Fleur came to himself, neither prayers nor threats
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/9/14694/14694.txt:306:   And modern women will be ill-cast players;
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/9/14694/14694.txt:624: lecturer, just as SHAKSPEARE makes his players behave when _Hamlet_ is
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/9/14694/14694.txt:629: SHAKSPEARE ever put this speech to the players in _Hamlet's_ mouth? My
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/7/8/14785/14785.txt:532: _Then_ GRANDMOTHER _closes the Book_. And now your prayers,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/7/8/14785/14785.txt:532: _Then_ GRANDMOTHER _closes the Book_. And now your prayers,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/8/2/14821/14821.txt:123:   The many Prayers made for her Recovery must have been of
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/8/5/14855/14855.txt:767: made prayers for Basil as a good sister makes supplication for her
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/8/5/14855/14855.txt:767: made prayers for Basil as a good sister makes supplication for her
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/8/7/14871/14871.txt:167: The way seems dark and prayers too late,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/8/7/14871/14871.txt:167: The way seems dark and prayers too late,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/8/7/14871/14871.txt:384: Someone's prayers have oft been made o'er him in childhood's day,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/8/7/14871/14871.txt:384: Someone's prayers have oft been made o'er him in childhood's day,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/9/4/14942/14942.txt:92: moment, lights upon the prayers set apart for the day. With what a
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/9/4/14942/14942.txt:92: moment, lights upon the prayers set apart for the day. With what a
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/2/15120/15120.txt:681: Are gathered to chatter about author and players,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/2/15120/15120.txt:705: Wine agents, hot-house ladies, unemployed players,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/3/2/15326/15326.txt:542: say their prayers, and it is toward the sacred black stone that they turn.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/3/2/15326/15326.txt:542: say their prayers, and it is toward the sacred black stone that they turn.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/3/3/15333/15333.txt:265: prayers, noticing the singularity of my manners, I suppose, and my
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/3/3/15333/15333.txt:265: prayers, noticing the singularity of my manners, I suppose, and my
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/4/5/15451/15451.txt:596: She was refused. But she still persisted. After many prayers and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/4/5/15451/15451.txt:596: She was refused. But she still persisted. After many prayers and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/1555/1555.txt:426: lighthearted soldier; "she says her prayers." But this mental joke only
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/1555/1555.txt:426: lighthearted soldier; "she says her prayers." But this mental joke only
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/6/1/15613/15613.txt:1276: This game may be played by four, six, or eight players. Two players toss
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/6/5/15656/15656.txt:107: Disorders of the STAGE." He stresses the brazenness of the players in
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/6/5/15656/15656.txt:114: evening, it would appear that, unless the players possessed the even
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/6/5/15656/15656.txt:137: he reviews the indictments of the players in 1699 and 1701 for uttering
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/7/4/15742/15742.txt:1067: leaven_ of good players, inquired how they could have more of them.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/7/8/15785/15785.txt:284: old lady in black, listening with bowed head to the prayers, and then
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/7/8/15785/15785.txt:284: old lady in black, listening with bowed head to the prayers, and then
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/7/8/15785/15785.txt:285: raising her face to smile on her people. The prayers being over, the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/7/8/15785/15785.txt:285: raising her face to smile on her people. The prayers being over, the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/1/15918/15918.txt:412: shores of the lake, and amid the prayers and chants of his tribe, first
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/1/15918/15918.txt:412: shores of the lake, and amid the prayers and chants of his tribe, first
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/5/15957/15957.txt:138: to such an extent that few third-rate players could give him a stroke
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/7/15978/15978.txt:754: prayers. The cure of the parish was a friend of hers and loved to talk
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/7/15978/15978.txt:754: prayers. The cure of the parish was a friend of hers and loved to talk
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/8/15986/15986.txt:280: singers fell out wi' th' players. They mostly dun do. An' th' players
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/3/16134/16134.txt:832: church where you may offer your prayers to the only living God,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/3/16134/16134.txt:832: church where you may offer your prayers to the only living God,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/7/16179/16179.txt:766: The fatal accidents which have befallen the players already this season
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16495/16495.txt:148: I was saying my prayers in a corner of an old broken chateau, the Y.M.C.A.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16495/16495.txt:148: I was saying my prayers in a corner of an old broken chateau, the Y.M.C.A.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16495/16495.txt:712: The prayers of those boys would have made a book. There were no
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16495/16495.txt:712: The prayers of those boys would have made a book. There were no
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16495/16495.txt:890: all to promise," I said, "that you'll kneel down and say your prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16495/16495.txt:890: all to promise," I said, "that you'll kneel down and say your prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16495/16495.txt:899: down and say his prayers, but when he returned he found there was no one
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16495/16495.txt:899: down and say his prayers, but when he returned he found there was no one
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16495/16495.txt:905: prayers under the blanket, but it wouldn't work. Then I heard one man come
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16495/16495.txt:905: prayers under the blanket, but it wouldn't work. Then I heard one man come
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16495/16495.txt:916: sake that I'd kneel down and say my prayers to-night."
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16495/16495.txt:916: sake that I'd kneel down and say my prayers to-night."
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/6/1/16615/16615.txt:331:     And passionate pleading and prayers to the dead we had wronged;
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/6/1/16615/16615.txt:331:     And passionate pleading and prayers to the dead we had wronged;
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/7/1/16716/16716.txt:238: presently looked up and whispered: "I haven't said my prayers, have I?"
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/7/1/16716/16716.txt:238: presently looked up and whispered: "I haven't said my prayers, have I?"
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/7/1670/1670.txt:346: That I should be certain that such prayers are acceptable to the Father
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/7/1670/1670.txt:346: That I should be certain that such prayers are acceptable to the Father
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/8/3/16839/16839.txt:1000:       and when my prayers were said,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/8/3/16839/16839.txt:1000:       and when my prayers were said,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/8/3/16839/16839.txt:317:       and holy abbot's prayers;
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/8/3/16839/16839.txt:317:       and holy abbot's prayers;
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/8/3/16839/16839.txt:939:     The prayers of his holy office
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/8/3/16839/16839.txt:939:     The prayers of his holy office
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932-0.txt:336: parched lips and blistered skin. The Kōk-kō repeat the prayers for
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932-0.txt:336: parched lips and blistered skin. The Kōk-kō repeat the prayers for
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932-0.txt:426: feet make offerings and prayers, imploring her to intercede with
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932-0.txt:426: feet make offerings and prayers, imploring her to intercede with
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932-0.txt:432: prayers and plume sticks are offered that a son may be given them, and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932-0.txt:432: prayers and plume sticks are offered that a son may be given them, and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932-0.txt:911: godfather, they repeating prayers that the youth may be true to his
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932-0.txt:911: godfather, they repeating prayers that the youth may be true to his
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932-0.txt:922: he learns the song and prayers. In committing songs and prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932-0.txt:922: he learns the song and prayers. In committing songs and prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932-0.txt:926: remembrance of the prayers and songs, and he awakes the following
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932-0.txt:926: remembrance of the prayers and songs, and he awakes the following
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932.txt:340: parched lips and blistered skin. The K[=o]k-k[=o] repeat the prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932.txt:340: parched lips and blistered skin. The K[=o]k-k[=o] repeat the prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932.txt:431: feet make offerings and prayers, imploring her to intercede with
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932.txt:431: feet make offerings and prayers, imploring her to intercede with
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932.txt:437: prayers and plume sticks are offered that a son may be given them, and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932.txt:437: prayers and plume sticks are offered that a son may be given them, and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932.txt:919: sisters of the godfather, they repeating prayers that the youth may be
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932.txt:919: sisters of the godfather, they repeating prayers that the youth may be
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932.txt:930: two instructors he learns the song and prayers. In committing songs
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932.txt:930: two instructors he learns the song and prayers. In committing songs
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932.txt:931: and prayers to memory the novice holds a tiny crystal between his
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932.txt:931: and prayers to memory the novice holds a tiny crystal between his
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932.txt:934: the remembrance of the prayers and songs, and he awakes the following
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/3/16932/16932.txt:934: the remembrance of the prayers and songs, and he awakes the following
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/2/17126/17126.txt:355: After dinner, they had family worship. "We will have family prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/2/17126/17126.txt:355: After dinner, they had family worship. "We will have family prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/2/17126/17126.txt:562: Kneeling that night by her little white bed, Edith said her prayers as
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/2/17126/17126.txt:562: Kneeling that night by her little white bed, Edith said her prayers as
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/6/17168/17168.txt:236: "Really, I never saw such bad pirates. Say your prayers, and see
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/6/17168/17168.txt:236: "Really, I never saw such bad pirates. Say your prayers, and see
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/6/17168/17168.txt:501: "Let's say our prayers and frighten it away," she said, stoutly.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/6/17168/17168.txt:501: "Let's say our prayers and frighten it away," she said, stoutly.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/2/1/17214/17214.txt:743: that book-mark there, the last time he led in family prayers, and his
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/2/1/17214/17214.txt:743: that book-mark there, the last time he led in family prayers, and his
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/2/8/17283/17283.txt:94:   who objected to prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/2/8/17283/17283.txt:94:   who objected to prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/3/1737/1737.txt:555: repeated several prayers that I did not heed.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/3/1737/1737.txt:555: repeated several prayers that I did not heed.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/3/4/17347/17347.txt:149: Round the dark door that prayers nor dreams can ope,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/3/4/17347/17347.txt:149: Round the dark door that prayers nor dreams can ope,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/9/3/17939/17939.txt:313: should miss the services of the church--the prayers and worship with
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/9/3/17939/17939.txt:313: should miss the services of the church--the prayers and worship with
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1821/1821.txt:502: "You are right," he said. "Let us both remember her in our prayers."
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1821/1821.txt:502: "You are right," he said. "Let us both remember her in our prayers."
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/5/18351/18351.txt:944:     All my prayers wordless? Nay, I can recall
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/5/18351/18351.txt:944:     All my prayers wordless? Nay, I can recall
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/9/18398/18398.txt:496: for they are sons no mother need be ashamed of. My prayers for them have
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/9/18398/18398.txt:496: for they are sons no mother need be ashamed of. My prayers for them have
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/4/1841/1841.txt:616: statesmen who are the battledores with which two cunning players toss
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/4/18540/18540.txt:534: remember him in their prayers. Amid tears and sobs they answered "We
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/4/18540/18540.txt:534: remember him in their prayers. Amid tears and sobs they answered "We
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/4/18540/18540.txt:536: aid, and asked to be remembered in the prayers of the people. His
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/4/18540/18540.txt:536: aid, and asked to be remembered in the prayers of the people. His
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/7/18574/18574.txt:469: It was the power, dear mother, of thy prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/7/18574/18574.txt:469: It was the power, dear mother, of thy prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/7/8/18781/18781.txt:429: Cupid beats down her prayers with his wings,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/7/8/18781/18781.txt:429: Cupid beats down her prayers with his wings,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/0/3/19033/19033.txt:1072: The players all played at once, without waiting for turns, quarrelling
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/0/3/19033/19033.txt:1140: the other players and shouting, "Off with his head!" or "Off with her
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/0/3/19033/19033.txt:1141: head!" By the end of half an hour or so, all the players, except the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/0/6/19063/19063.txt:581: She did not know any prayers.  She had never been taught to call upon
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/0/6/19063/19063.txt:581: She did not know any prayers.  She had never been taught to call upon
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/1/19119/19119.txt:346: simply and clearly in prayers for long life in the _Atharva-Veda_: "The
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/1/19119/19119.txt:346: simply and clearly in prayers for long life in the _Atharva-Veda_: "The
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/1/19119/19119.txt:354: These prayers contain the natural, yet under the circumstances rather
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/1/19119/19119.txt:354: These prayers contain the natural, yet under the circumstances rather
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/2/5/19257/19257.txt:851: Michael and his prayers, fervent though they were, did not appeal to the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/2/5/19257/19257.txt:851: Michael and his prayers, fervent though they were, did not appeal to the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/2/5/19257/19257.txt:974: to hear prayers in a foreign tongue. But one day McFarquhar ventured a
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/2/5/19257/19257.txt:974: to hear prayers in a foreign tongue. But one day McFarquhar ventured a
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/2/5/19257/19257.txt:994: thought otherwise, for he cared no more for Gaelic prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/2/5/19257/19257.txt:994: thought otherwise, for he cared no more for Gaelic prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/4/1940/1940.txt:172: _Paters_ and two _Aves_ for you in my prayers to-night."
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/4/1940/1940.txt:172: _Paters_ and two _Aves_ for you in my prayers to-night."
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/4/1940/1940.txt:720: of wax-tapers, a little cresset, that she might see to read her prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/4/1940/1940.txt:720: of wax-tapers, a little cresset, that she might see to read her prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/7/9/2798/2798.txt:127: I never saw such bad pirates. Say your prayers, and see that you're up
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/7/9/2798/2798.txt:127: I never saw such bad pirates. Say your prayers, and see that you're up
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/7/9/2798/2798.txt:364: "Let's say our prayers and frighten it away," she said stoutly.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/7/9/2798/2798.txt:364: "Let's say our prayers and frighten it away," she said stoutly.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/3/3131/3131.txt:151: a strange being. Deaf to the prayers of friends, to the sermons and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/3/3131/3131.txt:151: a strange being. Deaf to the prayers of friends, to the sermons and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/7/3175/3175.txt:365: the prayers, the entreaties and the tears of the gentle-natured girl
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/7/3175/3175.txt:365: the prayers, the entreaties and the tears of the gentle-natured girl
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/4/1/5/4152/4152.txt:113: little, and then home (after prayers) to bed.  This day I hear the Duke of
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/4/1/5/4152/4152.txt:113: little, and then home (after prayers) to bed.  This day I hear the Duke of
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/4/1/5/4152/4152.txt:245: then to sing again, and so good night.  To prayers and tonight [bed].  It
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/4/1/5/4152/4152.txt:245: then to sing again, and so good night.  To prayers and tonight [bed].  It
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/4/1/5/4152/4152.txt:399: then to prayers and to bed.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/4/1/5/4152/4152.txt:399: then to prayers and to bed.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/4/1/5/4152/4152.txt:594: books, and so to supper, and then to prayers and to bed.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/4/1/5/4152/4152.txt:594: books, and so to supper, and then to prayers and to bed.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/4/1/5/4152/4152.txt:662: and then home to supper, prayers, and to bed.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/4/1/5/4152/4152.txt:662: and then home to supper, prayers, and to bed.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/2/2/5220/5220.txt:839: furthermore, that my simulated prayers might carry conviction, I added,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/2/2/5220/5220.txt:839: furthermore, that my simulated prayers might carry conviction, I added,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/1/5918/5918.txt:417: if the authors who write them, and the players who act them, say that
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/2/5926/5926.txt:485: Four skillful tabor and flute players accompanied them, and the dance
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/2/5927/5927.txt:148: with prayers, and others with tears, and others with persuasive
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/2/5927/5927.txt:148: with prayers, and others with tears, and others with persuasive
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/2/5928/5928.txt:253: illustrious and peerless Dulcinea del Toboso, if so be the prayers and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/2/5928/5928.txt:253: illustrious and peerless Dulcinea del Toboso, if so be the prayers and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/2/5928/5928.txt:278: same prayers and supplications.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/2/5928/5928.txt:278: same prayers and supplications.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/4/5943/5943.txt:174: most of them, are guitar players and stringers of verses. I will bewail
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/4/5943/5943.txt:191: clear escape than good men's prayers.'"
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/4/5943/5943.txt:191: clear escape than good men's prayers.'"
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/4/5943/5943.txt:739: not astonish me so much as to observe that, although with players it is
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/6/3/9/6392/6392.txt:394: commission to fifty Roman knights; with orders, that if players or
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/6/3/9/6393/6393.txt:115: kept him standing before the door, mixing prayers and menaces in vain,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/6/3/9/6393/6393.txt:115: kept him standing before the door, mixing prayers and menaces in vain,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/6/3/9/6394/6394.txt:303: direction of the vilest amongst the players and charioteers, and
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/6/6/1/6610/6610.txt:965: hours, and through resort to prayers and incantations of medicine men,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/6/6/1/6610/6610.txt:965: hours, and through resort to prayers and incantations of medicine men,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/6/7161/7161.txt:224: prayers that he may be spared to reign long in England; for he began
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/6/7161/7161.txt:224: prayers that he may be spared to reign long in England; for he began
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/6/7161/7161.txt:726: entered the city, was received by the people with prayers, welcomings,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/6/7161/7161.txt:726: entered the city, was received by the people with prayers, welcomings,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/9/7193/7193.txt:859: Tom turned in without the added vexation of prayers, and Sid made
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/9/7193/7193.txt:859: Tom turned in without the added vexation of prayers, and Sid made
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/2/0/7200/7200.txt:44: prayers had been offered up for them, and many and many a private
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/2/0/7200/7200.txt:44: prayers had been offered up for them, and many and many a private
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/3/9/7399/7399.txt:264: It was the hour of prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/3/9/7399/7399.txt:264: It was the hour of prayers.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/3/9/7399/7399.txt:428: Now say thy prayers, thou sinful man,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/3/9/7399/7399.txt:428: Now say thy prayers, thou sinful man,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/3/7538/7538.txt:192: Groans, and prayers, and blasphemies
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/3/7538/7538.txt:192: Groans, and prayers, and blasphemies
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/5/7553/7553.txt:859: So say your prayers, believe all you
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/5/7553/7553.txt:859: So say your prayers, believe all you
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/5/7554/7554.txt:1810: So home to prayers and to bed
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/5/7554/7554.txt:1810: So home to prayers and to bed
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/5/7554/7554.txt:2009: Those absent from prayers were to pay a
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/5/7554/7554.txt:2009: Those absent from prayers were to pay a
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/71/71.txt:755: prayers, and by walking in a particular straight though
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/71/71.txt:755: prayers, and by walking in a particular straight though
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/7/8475/8475.txt:174: fifty players present, thirty or thirty-five were likely to be from the
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/7/8478/8478.txt:192: my prayers.  At last we went booming through the Golden Gate, and my
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/7/8478/8478.txt:192: my prayers.  At last we went booming through the Golden Gate, and my
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/5/7/8574/8574.txt:993: began to say their prayers very fast.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/5/7/8574/8574.txt:993: began to say their prayers very fast.
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8790/8790.txt:506: Be not by prayers of good men shorter made
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8790/8790.txt:506: Be not by prayers of good men shorter made
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8791/8791.txt:234: From all those spirits, who pray'd for others' prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8791/8791.txt:234: From all those spirits, who pray'd for others' prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8792/8792.txt:194: Nor hither mount, unless good prayers befriend,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8792/8792.txt:194: Nor hither mount, unless good prayers befriend,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8793/8793.txt:324: Of all our prayers: but when it darkens, then
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8793/8793.txt:324: Of all our prayers: but when it darkens, then
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8793/8793.txt:768: Stream'd down my Nella's cheeks.  Her prayers devout,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8793/8793.txt:768: Stream'd down my Nella's cheeks.  Her prayers devout,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8797/8797.txt:154: Which calls her still to matin prayers and noon,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8797/8797.txt:154: Which calls her still to matin prayers and noon,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8797/8797.txt:61: Unwound and tighten'd, flow to righteous prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8797/8797.txt:61: Unwound and tighten'd, flow to righteous prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8797/8797.txt:924: The prayers sent up to God for his release,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8797/8797.txt:924: The prayers sent up to God for his release,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/9/3/8/9382/9382.txt:329: Oh, how my fond prayers 'rose in gratitude true,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/9/3/8/9382/9382.txt:329: Oh, how my fond prayers 'rose in gratitude true,
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/9/3/8/9382/9382.txt:380: And prayers that God send truest peace from above;
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/9/3/8/9382/9382.txt:380: And prayers that God send truest peace from above;
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/9/3/8/9382/9382.txt:644: Bear with you, as you go, our grateful prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/9/3/8/9382/9382.txt:644: Bear with you, as you go, our grateful prayers
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/etext96/vpasm10.txt:1: *The Project Gutenberg Etext of Vailima Prayers & Sabbath Morn*
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/etext96/vpasm10.txt:23: Prayers Written At Vailima
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/etext96/vpasm10.txt:264: Prayers Written At Vailima by Robert Louis Stevenson
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/etext96/vpasm10.txt:273: Prayers Written At Vailima
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/etext96/vpasm10.txt:34: *The Project Gutenberg Etext of Vailima Prayers & Sabbath Morn*
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/etext96/vpasm10.txt:648: End of the Project Gutenberg eText Prayers Written at Vailima
+proj3-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/etext96/vpasm10.txt:901: End of The Project Gutenberg Etext of Vailima Prayers & Sabbath Morn

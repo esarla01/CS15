@@ -1,0 +1,158 @@
+A The title of the homework and the author’s name (you) 
+    
+    Proj3 Gerp by Ayse Idil Kolabas and Tansu Erin Sarlak
+
+B The purpose of the program
+    
+    The program searches a given word in a given directory by searching
+    through its contents and prints the instances of that word to a given
+    output file.
+
+C Acknowledgements for any help you received
+
+    Asked piazza and lab TAs questions
+
+D The files that you provided and a short description of what each file is
+  and its purpose
+    
+    HashElement.h and HashElement.cpp
+    ---------------------------------
+    a struct that includes a word, its lowercase form, the path of the file 
+    it appears in, and the line in the file it appears on
+
+    HashVector.h and HashVector.cpp
+    -------------------------------
+    a vector in order to add the HashElements to as chosen collision handling
+    way is chaining and there could be different elements of the same lowercase
+    word (where uppercase letters could be present in different ways)
+
+    HashTable.h and HashTable.cpp
+    -----------------------------
+    a hash where each index is calculated through a hash function and consists
+    of a vector as chosen collision handling way is chaining
+
+    gerp.h and gerp.cpp
+    -------------------
+    a program that reads words in from a file and inserts them in a hash, then
+    finds a given word in the same hash, printing its address and the line it
+    was in
+
+    FSTreeTraversal.cpp
+    -------------------
+    Function to print each path that can be taken to access subcontents of a
+    given directory
+    
+    stringProcessing.h and stringProcessing.cpp
+    -------------------------------------------
+    Function to strip non-alphanumerical characters from a given word
+    
+    unit_tests.h
+    ------------
+    Tests to check if stringProcessing is working
+    
+    Makefile
+    --------
+    File that links classes and functions together
+
+    README
+    ------
+    Answers to questions about said program
+
+    commands1.txt, commands2.txt, commands3.txt, commands4.txt, commands5.txt
+    -------------------------------------------------------------------------
+    Regular testing with commands
+    Quitting
+    Not quitting, eof()
+    searching for non-existent words in normal string search and @i search
+    @f and moving outputfile
+
+    our_outs1.txt, our_outs2.txt, our_outs3.txt, our_outs4.txt
+    -------------------------------------------------------------------------
+    corresponding print statements for above tests to compare with reference
+    implementation, sorted
+
+    ref_outs1.txt, ref_outs2.txt, ref_outs3.txt, ref_outs4.txt
+    -------------------------------------------------------------------------
+    corresponding print statements for above tests to compare with our
+    implementation, sorted
+
+    our_cout1.txt, our_cout2.txt, our_cout3.txt, our_cout4.txt
+    -------------------------------------------------------------------------
+    corresponding cout statements for above tests to compare with reference
+    implementation
+
+    ref_cout1.txt, ref_cout2.txt, ref_cout3.txt, ref_cout4.txt
+    -------------------------------------------------------------------------
+    corresponding cout statements for above tests to compare with our
+    implementation
+
+    our_newoutput.txt, ref_newoutput.txt, our_newestoutputs.txt, 
+    ref_newestoutputs.txt
+    -------------------------------------------------------------------------
+    specific to commands5.txt, for diff testing after using @f command
+
+E How to compile and run your program
+    make gerp
+    Usage: ./gerp Directory outputFile
+
+F We used hashes as our data structure for this assignment and chose chaining
+  as our collision handling method. This was made possible through placing a
+  vector in each index of the hash, which practically enabled chaining. Each
+  vector consists of hash elements, which consist of two vectors in itself.
+
+  We did this because when initializing hash table, we read each word in each
+  file. The different line and path vectors are important because there are
+  words which are repeated with the same versions across different files, and
+  storing each in a different hash element would lose us space. Also, this
+  provided us to reach the address and information of each word easily and
+  disabled repetition of the same line when recording when the word appeared.
+
+  Storing the line as a line number and storing the path gave us an advantage
+  since we did not have to store the same line as a string over and over again.
+
+  When we were using hash functions, we were hashing lowercase versions of words
+  so that different versions (lowercase and uppercase) of the same word would
+  be in the same index of the hash. In insensitive cases, in order to get
+  access to the case insensitive versions of a word, we only had to check a
+  single index in the hash as we placed the different versions of the word in
+  the same index. This also contributed to the speed advantage that hashes
+  enable.
+
+  Other applications of hashes are dictionaries, searching words in PDF files
+  and computers.
+    
+G We made use of unit testing for our classes of data structures such as
+  hash elements, hash vectors, and hash tables. This gave us a chance to
+  inspect how insertion and expansion happened in the data structure and
+  we made us of print statements to let us know how the size and capacity
+  changed throughout the initializing process.
+
+  To test the expand function in hash table.cpp, we printed the size of the
+  hash table and its contents based on ech index every time that function 
+  was called. We then deleted those print statements.
+
+  To test different commands and see if there are any differences with the
+  reference implementation, we made use of sort and diff. We only sorted the
+  output files instead of the couts since the order of the couts matter. We
+  also utilized the echo command to see how our data structure and algorithm
+  affected speed and memory.
+
+  As mentioned above in the file explanations section (D), we tested the
+  following cases through commands, cout statements, and print statements:
+  1 - regular usage of gerp
+  2 - directly quitting
+  3 - not quitting, therefore eof()
+  4 - searching for non-existent words in normal string search and @i search
+  5 - @f and moving outputfile (through commands from cin)
+
+  In order to test @f, we ran commands5.txt one by one and stored newoutput.txt
+  and newestoutput.txt for each by renaming them with a our/ref in their front.
+
+  An example of the commands we ran on the terminal:
+    
+./gerp proj3-test-dirs/mediumGutenberg our_out4.txt < commands4.txt > our_cout4.txt
+./the_gerp proj3-test-dirs/mediumGutenberg ref_out4.txt < commands4.txt > ref_cout4.txt
+sort our_out4.txt > our_outs4.txt
+sort ref_out4.txt > ref_outs4.txt
+diff our_outs4.txt ref_outs4.txt
+diff our_cout4.txt ref_cout4.txt
