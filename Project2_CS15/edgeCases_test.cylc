@@ -1,0 +1,43 @@
+1)
+4
+0
+/
+print
+2)
+#t
+4
+/
+print
+3)
+{ erin.cylc }
+file
+4)
+5
+swap
+5)
+print
+6)
+{ 4 42 +}
+not
+7)
+drop
+8)
+5
+exec
+9)
+{ quit }
+exec
+print
+10)
+{ Rstring }
+#t
+==
+print
+11) 
+{ }
+exec
+print
+12) 
+{ }
+file
+print
