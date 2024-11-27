@@ -1,4 +1,4 @@
-# Data Structures Projects Repository
+# Data Structures Projects Repository (CS 15)
 
 This repository contains various data structure implementations and projects built from scratch as part of my coursework and personal development. Each project focuses on a specific data structure or algorithm and demonstrates its use in solving practical problems. The projects span a range of fundamental data structures and their applications.
 
