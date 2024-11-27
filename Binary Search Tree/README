@@ -76,4 +76,4 @@ Base case:
   If the left child of the node is nullptr, return the node (it is the leftmost leaf).
 
 Recursive case:
-  Call find_min(node->left) to traverse the left subtree until the bottom left leaf is found.
+  Call find_min(node->left) to traverse the left subtree until the bottom left leaf is found. 
