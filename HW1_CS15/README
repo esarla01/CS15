@@ -1,4 +1,4 @@
-(A) ##The title of the homework and the author’s name (you)##
+(A) ## The title of the homework and the author’s name (you)## 
 
 Title: CharArrayList (COMP 15 HW 1)
 
@@ -6,39 +6,39 @@ Author: Erin Sarlak
 
 Date: February 21, 2022
 
-(B) ##The purpose of the program##
+(B) ## The purpose of the program## 
 
 This program implements a version of the array list data structure that stores characters.
 
-(C) ##Acknowledgements for any help you received##
+(C) ## Acknowledgements for any help you received## 
 
 Tufts CS15 teaching assistants and the CS15 PowerPoint slides.
 
-(D) ##The files that you provided and a short description of what each file is and its purpose##
+(D) ## The files that you provided and a short description of what each file is and its purpose## 
 
-- ##CharArrayList.cpp##: This file contains the implementation of the CharArrayList, including the code for the class functions.
-- ##CharArrayList.h##: This file contains the definition of the CharArrayList class.
-- ##unit_tests.h##: This file contains the test code that ensures the public and private functions of the CharArrayList class work properly.
+- ## CharArrayList.cpp## : This file contains the implementation of the CharArrayList, including the code for the class functions.
+- ## CharArrayList.h## : This file contains the definition of the CharArrayList class.
+- ## unit_tests.h## : This file contains the test code that ensures the public and private functions of the CharArrayList class work properly.
 
-(E) ##How to compile and run your program##
+(E) ## How to compile and run your program## 
 
 A Makefile is used to compile the program. The terminal command `unit_test` is used to specifically run the unit tests.
 
-(F) ##An outline of the data structures and algorithms that you used##
+(F) ## An outline of the data structures and algorithms that you used## 
 
-##Array Lists##:  
+## Array Lists## :  
 In this program, the array list data structure is employed. This array list is a collection that stores characters. Unlike arrays in C++, array lists are flexible lists that can be resized dynamically. Using member functions, characters can be added, removed, and replaced, while the capacity of the list is updated accordingly. Integer indexes can be used to access array list elements.
 
-##Advantages##:  
+## Advantages## :  
 - Data can be retrieved based on its index in the list. Therefore, the list doesn't need to go through all the data before the specified index to retrieve the desired element, making it efficient in terms of time.
 
-##Disadvantages##:  
+## Disadvantages## :  
 - Adding and removing data from the list requires shifting other elements within the array. Therefore, especially adding or removing elements from the front of the list can be expensive and time-consuming.
 
-##Both Advantages and Disadvantages##:  
+## Both Advantages and Disadvantages## :  
 - The capacity of the list needs to be updated when the list reaches its maximum size. If the growth factor of the array list is something like 2x, then copying all elements will be relatively efficient because this operation won't need to be done often. However, it can be space-inefficient as a lot of space may be wasted when the array grows to hundreds of slots.
 - If the growth factor is the original size plus a fixed number, copying all elements becomes relatively inefficient because this resizing will happen more frequently. This can be time-consuming as the entire array needs to be copied each time the array grows.
 
-(G) ##Details and an explanation of how you tested the various parts of the assignment and the program as a whole##
+(G) ## Details and an explanation of how you tested the various parts of the assignment and the program as a whole## 
 
 I wrote test functions for each of the member functions of the class in the `unit_test.h` file. To test each member function, I specifically wrote unit test functions to target both regular and edge cases, such as when the array list is empty. For example, when testing the `insertAt` function, I paid particular attention to adding elements at the front, back, and middle of the list. I also tested whether the function properly threw an error message when the entered index was out of range. In total, I used 47 unit test functions to test all of my member functions.
